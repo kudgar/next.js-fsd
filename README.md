@@ -1,3 +1,5 @@
+![Static Badge](https://img.shields.io/badge/next.js-framework-%23000000?style=flat&logo=next.js)
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
